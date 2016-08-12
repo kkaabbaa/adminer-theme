@@ -61,7 +61,7 @@ p {
 a {
     color: #00acac;
     text-decoration: none;
-    font-family: Monaco, Menlo, 'Ubuntu Mono', Consolas, source-code-pro, monospace !important;
+    font-family: Menlo, 'Ubuntu Mono', Consolas, source-code-pro, monospace !important;
 }
 
 a:visited {
@@ -524,7 +524,7 @@ input[type=button] {
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
-    font-family: Arial, Menlo, 'Ubuntu Mono', Consolas, source-code-pro, monospace !important;
+    font-family: Menlo, 'Ubuntu Mono', Consolas, source-code-pro, monospace !important;
 }
 
 input[type=submit][disabled],
